@@ -19,6 +19,11 @@ right: 45px;
 bottom: 45px;
 z-index: 99;
 }
+@media (max-width: 900px) {
+.navbar-brand h3 {
+font-size: 20px; /* Adjust the font size of the icon at 900px width */
+}
+}
 /*** Spinner ***/
 #spinner {
 opacity: 0;
