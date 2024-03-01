@@ -3,7 +3,7 @@
 #### 1. add missing pages[done]
 #### 2. fix button links[done]
 #### 3. fix all headers and footers of every page
-#### 4. fix icons on all pages and tabs
+#### 4. fix icons on all pages and tabs[in progress]
 #### 5. fix the signup and signin page to work correctly
 #### 6. debug any issues in the js files
 #### 7. connect the widgets

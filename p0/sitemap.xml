@@ -1,127 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/index.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/index.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/button.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/button.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/typography.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/typography.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/form.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/form.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/table.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/table.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/chart.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/chart.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/more.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/more.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/technology.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/technology.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/political.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/political.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/weather.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/weather.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/economy.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/economy.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/widget.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/widget.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/games.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/games.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/signin.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/signin.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/signup.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/signup.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/contact.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/contact.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/about.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/about.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/links.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/links.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/404.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/404.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/blank.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/blank.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/images.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/images.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cit82.github.io/jasond-pub/p0/construction.html</loc>
-  <lastmod>2024-02-23T07:59:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://cit82.github.io/jasond-pub/p0/construction.html</loc>
+<lastmod>2024-02-23T07:59:29+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-
-
 </urlset>
