@@ -14,7 +14,6 @@
 }
 }
 }
-
 @mixin form-validation-state(
 $state,
 $color,
@@ -31,7 +30,6 @@ margin-top: $form-feedback-margin-top;
 font-style: $form-feedback-font-style;
 color: $color;
 }
-
 .#{$state}-tooltip {
 position: absolute;
 top: 100%;
@@ -46,18 +44,15 @@ color: $tooltip-color;
 background-color: $tooltip-bg-color;
 @include border-radius($form-feedback-tooltip-border-radius);
 }
-
 @include form-validation-state-selector($state) {
 ~ .#{$state}-feedback,
 ~ .#{$state}-tooltip {
 display: block;
 }
 }
-
 .form-control {
 @include form-validation-state-selector($state) {
 border-color: $color;
-
 @if $enable-validation-icons {
 padding-right: $input-height-inner;
 background-image: escape-svg($icon);
@@ -65,14 +60,12 @@ background-repeat: no-repeat;
 background-position: right $input-height-inner-quarter center;
 background-size: $input-height-inner-half $input-height-inner-half;
 }
-
 &:focus {
 border-color: $color;
 box-shadow: $focus-box-shadow;
 }
 }
 }
-
 // stylelint-disable-next-line selector-no-qualifying-type
 textarea.form-control {
 @include form-validation-state-selector($state) {
@@ -82,11 +75,9 @@ background-position: top $input-height-inner-quarter right $input-height-inner-q
 }
 }
 }
-
 .form-select {
 @include form-validation-state-selector($state) {
 border-color: $color;
-
 @if $enable-validation-icons {
 &:not([multiple]):not([size]),
 &:not([multiple])[size="1"] {
@@ -96,26 +87,21 @@ background-position: $form-select-bg-position, $form-select-feedback-icon-positi
 background-size: $form-select-bg-size, $form-select-feedback-icon-size;
 }
 }
-
 &:focus {
 border-color: $color;
 box-shadow: $focus-box-shadow;
 }
 }
 }
-
 .form-check-input {
 @include form-validation-state-selector($state) {
 border-color: $color;
-
 &:checked {
 background-color: $color;
 }
-
 &:focus {
 box-shadow: $focus-box-shadow;
 }
-
 ~ .form-check-label {
 color: $color;
 }
@@ -126,7 +112,6 @@ color: $color;
 margin-left: .5em;
 }
 }
-
 .input-group .form-control,
 .input-group .form-select {
 @include form-validation-state-selector($state) {
