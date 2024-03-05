@@ -20,3 +20,13 @@
 #### 18. add all "tools" into the "Toolbox" 
 #### 19. update and maintain
 #### 20. add security features
+#### 21. fix all user images in main to default using:<br>from
+~~~
+press: ctrl+f
+type: img/user.jpg
+~~~ 
+to 
+~~~
+press: ctrl+h
+type: images/user-black1.png
+~~~
