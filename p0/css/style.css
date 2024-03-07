@@ -61,6 +61,7 @@ align-items: center;
 justify-content: center;
 font-weight: normal;
 border-radius: 50px;
+opacity: 0.6; /* Adjust the opacity value as needed */
 }
 /*** Layout ***/
 .sidebar {
@@ -253,3 +254,9 @@ border-color: var(--primary);
 small {
 font-size: 60%;
 }
+card-body{
+    background-color:grey;
+}
+ .bg-white {
+    background-color: lightgray !important;
+  }

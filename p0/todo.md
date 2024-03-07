@@ -2,10 +2,10 @@
 ## things still 
 #### 1. add missing pages[done]
 #### 2. fix button links[done]
-#### 3. fix all headers and footers of every page
+#### 3. fix all headers and footers of every page[done]
 #### 4. fix icons on all pages and tabs[in progress]
 #### 5. fix the signup and signin page to work correctly
-#### 6. debug any issues in the js files
+#### 6. debug any issues in the js files[in progress]
 #### 7. connect the widgets
 #### 8. hide the 404 and blank page in the buttons section
 #### 9. apply the 404 and blank page sections to proper areas that are needed
@@ -16,11 +16,12 @@
 #### 14. change font[done]
 #### 15. add some backend to the whole project[in progress]
 #### 16. start development on AI integrated into the site[in progress]
-#### 17. commit time to R&D in looking up as many tools as possible
+#### 17. commit time to R&D in looking up as many tools as possible[in progress]
 #### 18. add all "tools" into the "Toolbox" 
 #### 19. update and maintain
 #### 20. add security features
 #### 21. fix all user images in main to default using:<br>from
+#### 22. work on the SSI & PHP for all the pages.
 ~~~
 press: ctrl+f
 type: img/user.jpg
