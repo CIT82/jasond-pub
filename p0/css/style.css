@@ -40,6 +40,14 @@ opacity: 1;
 .btn {
 transition: .5s;
 }
+.btn-red {
+background-color: red;
+border-color: red;
+}
+.btn-red:hover {
+background-color: darkred;
+border-color: darkred;
+}
 .btn-square {
 width: 38px;
 height: 38px;
@@ -255,8 +263,8 @@ small {
 font-size: 60%;
 }
 card-body{
-    background-color:grey;
+background-color:grey;
 }
- .bg-white {
-    background-color: lightgray !important;
-  }
+.bg-white {
+background-color: lightgray !important;
+}
